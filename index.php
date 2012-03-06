@@ -4,6 +4,8 @@ include("fckeditor/fckeditor.php") ;
 <html>
 <head></head>
 <h2>Consulta de actividades</h2>
+<p>Haciendo pruebas de cambios en los archivos para Github </p>
+<p>Este cambio esta en el branch development </p>
 <body>
 <form action=”” method=””>
  <div id="form_observ style=" width:510px;height:190px;overflow:auto;align:center;padding:5px 0 5px 0;>
