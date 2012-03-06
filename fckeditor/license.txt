@@ -16,13 +16,7 @@ choice:
    http://www.mozilla.org/MPL/MPL-1.1.html
    (See Appendix C)
 
-You are not required to, but if you want to explicitly declare the
-license you have chosen to be bound to when using, reproducing,
-modifying and distributing this software, just include a text file
-titled "legal.txt" in your version of this software, indicating your
-license choice. In any case, your choice will not restrict any
-recipient of your version of this software to use, reproduce, modify
-and distribute this software under any of the above licenses.
+Lincencia GPl
 
 Appendix A: The GPL License
 ===========================
@@ -56,8 +50,7 @@ in new free programs; and that you know you can do these things.
 
   To protect your rights, we need to make restrictions that forbid
 anyone to deny you these rights or to ask you to surrender the rights.
-These restrictions translate to certain responsibilities for you if you
-distribute copies of the software, or if you modify it.
+
 
   For example, if you distribute copies of such a program, whether
 gratis or for a fee, you must give the recipients all the rights that
@@ -95,8 +88,7 @@ refers to any such program or work, and a "work based on the Program"
 means either the Program or any derivative work under copyright law:
 that is to say, a work containing the Program or a portion of it,
 either verbatim or with modifications and/or translated into another
-language.  (Hereinafter, translation is included without limitation in
-the term "modification".)  Each licensee is addressed as "you".
+language.  
 
 Activities other than copying, distribution and modification are not
 covered by this License; they are outside its scope.  The act of
@@ -208,8 +200,7 @@ parties remain in full compliance.
 
   5. You are not required to accept this License, since you have not
 signed it.  However, nothing else grants you permission to modify or
-distribute the Program or its derivative works.  These actions are
-prohibited by law if you do not accept this License.  Therefore, by
+distribute the Program or its derivative works.  Therefore, by
 modifying or distributing the Program (or any work based on the
 Program), you indicate your acceptance of this License to do so, and
 all its terms and conditions for copying, distributing or modifying
@@ -227,10 +218,7 @@ this License.
 infringement or for any other reason (not limited to patent issues),
 conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
-excuse you from the conditions of this License.  If you cannot
-distribute so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you
-may not distribute the Program at all.  For example, if a patent
+excuse you from the conditions of this License. For example, if a patent
 license would not permit royalty-free redistribution of the Program by
 all those who receive copies directly or indirectly through you, then
 the only way you could satisfy both it and this License would be to
