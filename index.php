@@ -3,22 +3,20 @@ include("fckeditor/fckeditor.php") ;
 ?> 
 <html>
 <head></head>
-<h1>Consulta de actividades</h1>
+<h2>Consulta de actividades</h2>
 <body>
 <form action=”” method=””>
  <div id="form_observ style=" width:510px;height:190px;overflow:auto;align:center;padding:5px 0 5px 0;>
-		<h2>Observaciones</h2>
-		<p>Nombre de la actividad: </p><p>     
+	<p>Nombre de la actividad: </p>     
+	<p>Descripcion de la actividad:</p>
 				
-
 <?php 
-    $oFCKeditor = new FCKeditor('con_observaciones') ;
+    $oFCKeditor = new FCKeditor('descripcion') ;
     $oFCKeditor->BasePath = 'fckeditor/';
-    $oFCKeditor->Width  = '900' ;
-    $oFCKeditor->Height = '600' ;
+    $oFCKeditor->Width  = '700' ;
+    $oFCKeditor->Height = '300' ;
     $oFCKeditor->Create() ;
 ?>                        
-
                             
 </div>
 </form>
